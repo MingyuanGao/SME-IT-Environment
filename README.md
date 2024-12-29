@@ -1,5 +1,5 @@
-# SME-IT-Environment
-Provisioning an SME IT environment with Infrastrucure-as-Code tools
+# SME IT Environment with IaC Tools
+Automated provisioning of an SME IT Environment with Infrastrucure-as-Code tools
 
 ## 1. Overview of the SME IT Environment
 
