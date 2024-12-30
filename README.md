@@ -1,7 +1,7 @@
 # SME IT Environment with IaC Tools
 Automated provisioning of an SME IT Environment with Infrastrucure-as-Code tools
 
-*Note: this is my playground for learning cloud infrastructure and IaC tools!*
+*This is my playground for learning cloud infrastructure and IaC tools!*
 
 ## 1. Overview of the SME IT Environment
 
